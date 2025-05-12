@@ -47,7 +47,8 @@ Welcome to my personal portfolio! I'm a passionate **Web and Graphic Designer** 
 ## 📫 Let's Connect!
 
 - 🌍 [Website](https://fredmartin.github.io)  
-- 📧 Email: your.email@example.com  
+- 📧 Email: fredmartinmugane@gmail.com
+- 👋 Phone Number: 0795367770
 - 💼 LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile) *(optional)*  
 - 🐙 GitHub: [@fredmartin](https://github.com/fredmartin)  
 
